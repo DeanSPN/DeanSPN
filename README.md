@@ -13,8 +13,6 @@
 - 🔭 Currently working on [**Supernatural**](https://github.com/SPNFamily)
 - 𓀻 Director at [Scala Studios](https://github.com/ScalaGG)
 - 🗡️ Every case I've worked is at [github.com/DeanSPN](https://github.com/DeanSPN)
-- 📫 Reach me: **DeanSPN**
-
 ### 🔥 Arsenal
 
 <p align="center">
